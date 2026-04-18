@@ -150,7 +150,7 @@ export default function LandingPage() {
           id: "5",          name: "Sarah W.",          imageSrc: "http://img.b2bpic.net/free-photo/extreme-sports-healthy-lifestyle-concept-close-up-view-happy-smiling-young-bearded-surfer-carrying-surfboard-his-head-his-way-ocean_273609-1543.jpg"},
       ]}
       cardTitle="Traveler Experiences"
-      cardTag="Traveler Stories"
+      cardTag="What People Say"
       cardAnimation="slide-up"
     />
   </div>
@@ -161,7 +161,7 @@ export default function LandingPage() {
       useInvertedBackground={false}
       faqs={[
         {
-          id: "1",          title: "Is the tour free?",          content: "Yes, our virtual tour is completely free to access for everyone."},
+          id: "1",          title: "Is the tour free?",          content: "Yes, our virtual tour is completely free to access for everyone. We believe in democratizing access to culture, which is why we've made this experience available at no cost to build trust and inspire your next real-world journey."},
         {
           id: "2",          title: "Do I need VR gear?",          content: "No, it works seamlessly on your desktop, tablet, or smartphone."},
         {
